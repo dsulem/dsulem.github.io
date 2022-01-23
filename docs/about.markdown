@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![image](images/IMG_20210630_085720.jpg)
+![image](../images/IMG_20210630_085720.jpg)
 
 <!-- <img src="images/IMG_20210630_085720.jpg" class="pull-left" style="margin:20px
           20px 20px 0; height:210px; width:210px; border-radius:100%"/> -->
