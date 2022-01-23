@@ -6,8 +6,8 @@ permalink: /teaching and talks/
 
 I have been a teaching assistant and tutor for the following courses:
  
- - Advanced Topics in Statistical Machine Learning (SC4/SM8, 4th year/Master) in Winter 2020, 2021 and 2022.
- - Tutor in Machine Learning at the Advanced Studies in England programme in Fall 2020.
+ - [Advanced Topics in Statistical Machine Learning](https://www.stats.ox.ac.uk/student-resources/msc-in-statistical-science/) (SC4/SM8, 4th year/Master) in Winter 2020, 2021 and 2022.
+ - Machine Learning at the [Advanced Studies in England](https://www.studyabroadbath.org/) programme in Fall 2020.
 
 ### Talks
 
