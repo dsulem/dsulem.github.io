@@ -18,3 +18,5 @@ My main research interests lie in Bayesian nonparametric statistics and machine 
   
 I'm also interested in variational inference, explainable machine learning and differential privacy.
 
+Contact me at deborah [dot] sulem [at] stats [dot] ac [dot] uk or on [LinkedIn](https://www.linkedin.com/in/d%C3%A9borah-sulem-0a4050135/?originalSubdomain=fr).
+
