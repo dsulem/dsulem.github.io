@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 
-
 <img src="../images/IMG_20210630_085720.jpg" class="pull-left" style="margin:20px
           20px 20px 0; height:110px; width:110px; border-radius:100%"/>
 
