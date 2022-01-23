@@ -8,7 +8,7 @@ permalink: /publications/
 
 [Github](https://github.com/dsulem/)
 
-Journals
+### Journals
 
 [Bayesian estimation of nonlinear Hawkes processes](https://arxiv.org/abs/2103.17164). D. Sulem, V.Rivoirard, J.Rousseau. *Submitted to Bernoulli*.
 
@@ -16,6 +16,6 @@ Journals
 
 [Regularized spectral methods for clustering signed networks](https://www.jmlr.org/papers/v22/20-1289.html). M.Cucuringu, A. Singh, D.Sulem, H.Tyagi. *JMLR, 2021*.
 
-Conferences
+### Conferences
 
 Diverse counterfactual explanations for anomaly detection in time series. D.Sulem, M.Donini, M. B. Zafar, F.-X. Aubet, J. Gasthaus, T. Januschowski, K. Kenthapadi, S. Das, C. Archambeau. *Submitted to FAccT 2022*
