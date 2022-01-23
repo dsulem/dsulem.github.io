@@ -2,8 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-permalink: /publications/
-permalink: /talks and teaching/
 ---
 
 I am currently PhD student in the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford with [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/).
