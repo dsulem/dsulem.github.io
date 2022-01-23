@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<div style="text-align:center"><img src="../images/IMG_20210630_085720.jpg" class="pull-left"; height:150px; width:150px; border-radius:100%"/></<div>
+<img src="../images/IMG_20210630_085720.jpg" class="pull-left" style="text-align:center"; height:150px; width:150px; border-radius:100%"/>
 
 I am currently a PhD student in the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford with [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/), [Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuringu) and [Xiaowen Dong](https://web.media.mit.edu/~xdong/).
         
