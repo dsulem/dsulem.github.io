@@ -10,7 +10,7 @@ layout: home
 </p>
 
 
-I am currently a PhD student in the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford with [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/), [Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuringu) and [Xiaowen Dong](https://web.media.mit.edu/~xdong/).
+I am currently a PhD student in the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford with [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/), [Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuringu), [Xiaowen Dong](https://web.media.mit.edu/~xdong/) and [Vincent Rivoirard (Université Paris Dauphine)](https://www.ceremade.dauphine.fr/~rivoirar/).
         
 Prior to that, I received an Engineering Degree from [Ecole Polytechnique](https://www.polytechnique.edu/) in Paris. 
   
