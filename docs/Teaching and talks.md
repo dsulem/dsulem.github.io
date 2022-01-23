@@ -14,7 +14,7 @@ I have been a teaching assistant and tutor for the following courses:
 ### Talks
 
 - Winter School on Bayesian End-to-End Learning (CIRM, October 2021)
-- 52emes Journees de Statistique (Nice, June 2021)
+- 52emes Journées de Statistique (Nice, June 2021)
 - Bernoulli-IMS One World Symposium (August 2020)
 - ISBA 2020 (June 2021)
 - Mathematical and Statistical Challenges in Uncertainty Quanti cation conference (Cambridge, July 2020)
@@ -22,4 +22,4 @@ I have been a teaching assistant and tutor for the following courses:
 ### Posters
 
 - Network Science conference (NetSci2020)(Roma, September 2020)
--  Mathematical Methods of Modern Statistics conference (CIRM, June 2020)
+- Mathematical Methods of Modern Statistics conference (CIRM, June 2020)
