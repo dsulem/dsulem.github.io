@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 [Google scholar](https://scholar.google.com/citations?user=FMBP1AsAAAAJ&hl=fr)
+
 [Github](https://github.com/dsulem/)
 
 Journals
