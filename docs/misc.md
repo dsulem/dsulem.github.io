@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Miscellaneous
+permalink: /misc/
 ---
 
 I am part of the [EquiStats Oxford](https://tylerkf.github.io/equistats/) equity and diversity discussion group and [Oxford University TaeKwon-Do School](https://users.ox.ac.uk/~outkd/).
