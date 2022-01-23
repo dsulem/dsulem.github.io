@@ -14,3 +14,5 @@ Prior to that, I received an Engineering Degree from [Ecole Polytechnique](https
 My work focuses on the frequentist properties of Bayesian statistical methods for point processes and on the development and analysis of methods for general graphs, in particular using Graph Neural Networks.
   
 I'm also interested in variational inference, explainable machine learning and differential privacy.
+
+I recently did a research internship at Amazon Research in Berlin with [Michele Donini](https://www.amazon.science/author/michele-donini) on explainibility methods for anomaly detection.
