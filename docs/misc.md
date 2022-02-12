@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Miscellaneous
+title: Miscallenous
 permalink: /misc/
 ---
 
