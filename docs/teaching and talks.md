@@ -15,7 +15,7 @@ I have been a teaching assistant and tutor for the following courses:
 - [52èmes Journées de Statistique (Nice, June 2021)] (https://jds2021.sciencesconf.org/)
 - [Bernoulli-IMS One World Symposium (August 2020)](https://www.worldsymposium2020.org/)
 - [ISBA 2020 (June 2021)](https://bayesian.org/isba2020-home/)
-- [Mathematical and Statistical Challenges in Uncertainty Quantification conference (Cambridge, July 2020)])(http://www.statslab.cam.ac.uk/~nickl/Site/ercconf19.html)
+- [Mathematical and Statistical Challenges in Uncertainty Quantification conference (Cambridge, July 2020)](http://www.statslab.cam.ac.uk/~nickl/Site/ercconf19.html)
 
 ### Posters
 
