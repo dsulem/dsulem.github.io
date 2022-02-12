@@ -10,13 +10,15 @@ layout: home
 </p>
 
 
-I am currently a PhD student in the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford supervised by [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/), [Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuringu), [Xiaowen Dong](https://web.media.mit.edu/~xdong/) and [Vincent Rivoirard (Université Paris Dauphine)](https://www.ceremade.dauphine.fr/~rivoirar/).
+I am currently a PhD candidate in the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford.
+
+I am supervised by [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/), [Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuringu), [Xiaowen Dong](https://web.media.mit.edu/~xdong/) and [Vincent Rivoirard (Université Paris Dauphine)](https://www.ceremade.dauphine.fr/~rivoirar/).
         
 Prior to that, I received an Engineering Degree from [Ecole Polytechnique](https://www.polytechnique.edu/) in Paris. 
   
 My main research interests lie in Bayesian nonparametric statistics and machine learning for graphs.
   
-I'm also interested in variational inference, explainable machine learning and differential privacy.
+I'm also interested in variational inference and explainable machine learning.
 
 Contact me at deborah [dot] sulem [at] stats [dot] ac [dot] uk or on [LinkedIn](https://www.linkedin.com/in/d%C3%A9borah-sulem-0a4050135/?originalSubdomain=fr).
 
