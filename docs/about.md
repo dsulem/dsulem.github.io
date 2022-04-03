@@ -16,4 +16,4 @@ I have also been working on variational inference and high-dimensional models.
 
 I recently did a research internship at Amazon Research in Berlin with [Michele Donini](https://www.amazon.science/author/michele-donini) on explainable machine learning.
 
-**Please contact me at deborah [dot] sulem [at] stats.ox.ac.uk if you would like to see my CV.**
+**Please contact me at deborah [dot] sulem [at] stats [dot] ox [dot] ac [dot] uk if you would like to see my CV.**
