@@ -9,7 +9,6 @@ layout: home
   <img src="../images/IMG_20210630_085720.jpg" class="pull-left" style="text-align:center; height:150px; width:150px; border-radius:100%"/>
 </p>
 
-**NEWS: I am looking for post-doc positions starting from January 2023.**
 
 I am currently a PhD candidate in the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford.
 
