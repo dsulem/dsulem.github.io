@@ -17,6 +17,3 @@ I am supervised by Pr. [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/), 
 Prior to that, I received an Engineering Degree from [Ecole Polytechnique](https://www.polytechnique.edu/) in Paris. 
   
 My research interests lie in Bayesian nonparametric methods and graph-related problems. I have notably been working on Hawkes processes, spectral clustering, graph neural networks and variational inference. I'm also interested in explainable machine learning.
-
-Contact me at deborah [dot] sulem [at] stats [dot] ac [dot] uk or on [LinkedIn](https://www.linkedin.com/in/d%C3%A9borah-sulem-0a4050135/?originalSubdomain=fr).
-
