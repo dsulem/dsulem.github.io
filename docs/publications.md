@@ -11,7 +11,7 @@ permalink: /publications/
 
 ### Preprints
 
-[Scalable Variational Bayes methods for Hawkes processes](https://arxiv.org/abs/2212.00293) D. Sulem, V. Rivoirard, J. Rousseau (2022). 
+[Scalable Variational Bayes methods for Hawkes processes](https://arxiv.org/abs/2212.00293). D. Sulem, V. Rivoirard, J. Rousseau (2022). 
 
 [Graph similarity learning for change-point detection in dynamic networks](https://arxiv.org/abs/2203.15470). D. Sulem, H. Kenlay, M. Cucuringu, X. Dong (2022).
 
