@@ -11,12 +11,14 @@ permalink: /publications/
 
 ### Preprints
 
-[Graph similarity learning for change-point detection in dynamic networks](https://arxiv.org/abs/2203.15470). D. Sulem, H. Kenlay, M. Cucuringu, X. Dong.
+[Scalable Variational Bayes methods for Hawkes processes](https://arxiv.org/abs/2212.00293) D. Sulem, V. Rivoirard, J. Rousseau (2022). 
+
+[Graph similarity learning for change-point detection in dynamic networks](https://arxiv.org/abs/2203.15470). D. Sulem, H. Kenlay, M. Cucuringu, X. Dong (2022).
 
 
-[Diverse counterfactual explanations for anomaly detection in time series](https://arxiv.org/abs/2203.11103).  D. Sulem, M. Donini, M. B. Zafar, F.-X. Aubet, J. Gasthaus, T. Januschowski, K. Kenthapadi, S. Das, C. Archambeau. 
+[Diverse counterfactual explanations for anomaly detection in time series](https://arxiv.org/abs/2203.11103).  D. Sulem, M. Donini, M. B. Zafar, F.-X. Aubet, J. Gasthaus, T. Januschowski, K. Kenthapadi, S. Das, C. Archambeau (2022).
 
-[Bayesian estimation of nonlinear Hawkes processes](https://arxiv.org/abs/2103.17164). D. Sulem, V. Rivoirard, J. Rousseau. 
+[Bayesian estimation of nonlinear Hawkes processes](https://arxiv.org/abs/2103.17164). D. Sulem, V. Rivoirard, J. Rousseau (2021). 
 
 ### Journals
 
