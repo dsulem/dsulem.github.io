@@ -12,10 +12,11 @@ layout: home
 
 Hi! I am a post-doctoral research at the [Barcelona School of Economics](https://bse.eu/)-[Universitat Pompeu Fabra](https://www.upf.edu/) in the [Statistics group](https://sites.google.com/view/stats-upf/), working on excitng **high-dimensional statistical problems** and **networks**.
 
-I obtained a PhD in January 2023 from the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford, where I was supervised by Professors [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/), [Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuringu), [Xiaowen Dong](https://web.media.mit.edu/~xdong/) and [Vincent Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/).
+I obtained a PhD in January 2023 from the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford, where I was supervised by Professors [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/), [Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuringu), [Xiaowen Dong](https://web.media.mit.edu/~xdong/) and [Vincent Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/). I also did an internship at Amazon Research Berlin with [Michele Donini](https://www.amazon.science/author/michele-donini).
+
         
 Prior to that, I received an Engineering Degree from [Ecole Polytechnique](https://www.polytechnique.edu/) in Paris. 
-  
+
 My research interests are fairly broad and include **Bayesian nonparametric methods**, **graphs/networks**, **explainability & fairness in machine learning**. I have notably worked on Hawkes processes, spectral clustering, graph neural networks, variational inference, counterfactual analysis.
 
 I am also interested in statistics for **epidemiology, demography,** and **economics**, and looking for projects outside the academic world :eyes:
