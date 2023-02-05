@@ -19,3 +19,6 @@ Prior to that, I received an Engineering Degree from [Ecole Polytechnique](https
 My research interests are fairly broad and include **Bayesian nonparametric methods**, **graphs/networks**, **explainability & fairness in machine learning**. I have notably worked on Hawkes processes, spectral clustering, graph neural networks, variational inference, counterfactual analysis.
 
 I am also interested in statistics for **epidemiology, demography,** and **economics**, and looking for projects outside the academic world :eyes:
+
+
+**Contact me at deborah [dot] sulem [at] bse [dot] eu**
