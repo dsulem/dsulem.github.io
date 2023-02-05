@@ -6,7 +6,7 @@ layout: home
 ---
 
 <p align="center">
-  <img src="../images/IMG_20210630_085720.jpg" class="pull-left" style="text-align:center; height:190px; width:180px; border-radius:100%"/>
+  <img src="../images/IMG_20210630_085720.jpg" class="pull-left" style="text-align:center; height:150px; width:150px; border-radius:100%"/>
 </p>
 
 
