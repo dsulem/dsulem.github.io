@@ -10,16 +10,14 @@ layout: home
 </p>
 
 
-Hi! I am a post-doctoral research at the [Barcelona School of Economics](https://bse.eu/)-[Universitat Pompeu Fabra](https://www.upf.edu/) in the [Statistics group](https://sites.google.com/view/stats-upf/), working on excitng **high-dimensional statistical problems** and **networks**.
+I am currently a post-doctoral research at the [Barcelona School of Economics](https://bse.eu/)-[Universitat Pompeu Fabra](https://www.upf.edu/) in the [Statistics group](https://sites.google.com/view/stats-upf/).
 
-I obtained a PhD in January 2023 from the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford, where I was supervised by Professors [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/), [Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuringu), [Xiaowen Dong](https://web.media.mit.edu/~xdong/) and [Vincent Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/). I also did an internship at Amazon Research Berlin with [Michele Donini](https://www.amazon.science/author/michele-donini).
+My main research topics at the moment are **high-dimensional statistics**, **Bayesian inference**, and **networks**.
 
-        
-Prior to that, I received an Engineering Degree from [Ecole Polytechnique](https://www.polytechnique.edu/) in Paris. 
+I am also interested in **variational inference** and **explainability & fairness in machine learning**.
 
-My research interests are fairly broad and include **Bayesian nonparametric methods**, **graphs/networks**, **explainability & fairness in machine learning**. I have notably worked on Hawkes processes, spectral clustering, graph neural networks, variational inference, counterfactual analysis.
-
-I am also interested in statistics for **epidemiology, demography,** and **economics**, and looking for projects outside the academic world :eyes:
+Prior to this position, I obtained a PhD in the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford, under the supervision of [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/), [Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuringu), [Xiaowen Dong](https://web.media.mit.edu/~xdong/) and [Vincent Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/).
+Before that, I received an Engineering Degree from [Ecole Polytechnique](https://www.polytechnique.edu/) in Paris. 
 
 
-**Contact me at deborah [dot] sulem [at] bse [dot] eu**
+**Please contact me at deborah [dot] sulem [at] bse [dot] eu**
