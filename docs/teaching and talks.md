@@ -10,7 +10,7 @@ I have been a teaching assistant and tutor for the following courses:
  - Machine Learning at the [Advanced Studies in England](https://www.studyabroadbath.org/) program in Fall 2020.
 
 ### Talks
-- [Seminaire Parisien de Statistique](Institut Henri Poincare, Paris, April 2023)(https://sites.google.com/site/semstats/home)
+- [Seminaire Parisien de Statistique(Institut Henri Poincare, Paris, April 2023)](https://sites.google.com/site/semstats/home)
 - [Meeting in Mathematical Statistics (CIRM, Luminy, December 2022)](https://conferences.cirm-math.fr/2908.html)
 - [International Conference on Bayesian Nonparametrics (Puerto Varas, Chile, October
 2022)](https://midas.mat.uc.cl/bnp13/)
