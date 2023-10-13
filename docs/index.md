@@ -11,7 +11,7 @@ layout: home
 
 Hi! Welcome to my personal webpage and thank you for your interest :)
 
-I am currently a post-doctoral researcher at the [Barcelona School of Economics](https://bse.eu/) and [Universitat Pompeu Fabra](https://www.upf.edu/), in the [Statistics group](https://sites.google.com/view/stats-upf/), working with Prof. David Rossell and Prof. Gabor Lugosi.
+I am currently a post-doctoral researcher at the [Barcelona School of Economics](https://bse.eu/) and [Universitat Pompeu Fabra](https://www.upf.edu/), in the [Statistics group](https://sites.google.com/view/stats-upf/), working with [Prof. David Rossell](https://sites.google.com/site/rosselldavid) and [Prof. Gabor Lugosi](http://www.econ.upf.edu/~lugosi/).
 
 My research interests lie around **networks**,  **Bayesian inference**, and **high-dimensional and nonparametric statistics**. I work on different problems from applied probability to machine learning, and recently became interested in **network archaeology**, **tree algorithms**, and **graphical models**.
 
