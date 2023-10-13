@@ -23,7 +23,7 @@ email: deborah.sulem@bse.eu
 description: Post-doctoral researcher in Statistics and Machine Learning
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dsulem.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @DeborahSulem
+twitter_username:
 github_username:  dsulem
 
 # Build settings
