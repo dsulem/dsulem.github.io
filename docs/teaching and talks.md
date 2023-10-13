@@ -4,10 +4,11 @@ title: Teaching and talks
 permalink: /teaching and talks/
 ---
 
-I have been a teaching assistant and tutor for the following courses:
- 
- - [Advanced Topics in Statistical Machine Learning](https://www.stats.ox.ac.uk/student-resources/msc-in-statistical-science/) (SC4/SM8, 4th year/Master) in Winter 2020, 2021 and 2022.
- - Machine Learning at the [Advanced Studies in England](https://www.studyabroadbath.org/) program in Fall 2020.
+### Teaching
+
+- Lecturer of the Foundations of Data Science course for the [Master in Economics and Finance](https://bse.eu/study/masters-programs/economics#courses) at BSE (Fall 2023).
+ - Teaching Assistant and Tutor for [Advanced Topics in Statistical Machine Learning](https://www.stats.ox.ac.uk/student-resources/msc-in-statistical-science/) (SC4/SM8, 4th year/Master) at the University of Oxford (Winter 2020, 2021 and 2022).
+ - Tutor in Machine Learning at the [Advanced Studies in England](https://www.studyabroadbath.org/) program (Fall 2020).
 
 ### Talks
 - [Seminaire Parisien de Statistique (Institut Henri Poincare, Paris, April 2023)](https://sites.google.com/site/semstats/home)
