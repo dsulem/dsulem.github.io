@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
+<div style='text-align: justify;'>
+
+
+
 I was born in France, where I completed an Engineering Degree (Applied Mathematics track) at [Ecole Polytechnique, Paris](https://www.polytechnique.edu/). I was originally trained as a Physicist in the French Classes Préparatoires at [Lycee Louis-le-Grand](https://www.louislegrand.fr/) and at the start of my Engineering studies. Then, thanks to the broad scientific training I got at Ecole Polytechnique, I became interested in Data Science and Machine Learning, and decided to write my master thesis on Hierarchical Graph Neural Networks during a research internship at the [NYU's Center for Data Science](https://cds.nyu.edu/), under the supervision of [Joan Bruna](https://cims.nyu.edu/~bruna/). I enjoyed a lot this first research experience, at the intersection between computer science and mathematics, and therefore decided to start a doctoral program at the [University of Oxford in Statistics and Machine Learning](https://www.stats.ox.ac.uk/). There, I entered the 2018 Oxford student cohort of the [Oxford-Warwick Center for Doctoral Training in Statistical Science](http://www.oxwasp-cdt.ac.uk/), a 4-year Ph.D program with an initial training year of rotation projects. After the first year, I wanted to investigate both mathetimatical statistics and machine / deep learning research questions, thus, I started my PhD in 2019 on **Bayesian nonparametrics**, under the supervision of [Prof. Judith Rousseau](https://www.stats.ox.ac.uk/~rousseau/) and [Prof. Vincent Rivoirard (Université PSL-Paris Dauphine)](https://www.ceremade.dauphine.fr/~rivoirar/), and on **graphs**, under the supervision of [Prof. Mihai Cucuringu](https://www.stats.ox.ac.uk/~cucuring/) and [Prof. Xiaowen Dong (Department of Engineering Sciences)](https://web.media.mit.edu/~xdong/).
 
 Part of my enjoyment of research comes from the fact that I like to collaborate with different people from academia and industry around the world. During my PhD, I did an internship in the Machine Learning research team at Amazon Web Services in Berlin, under the supervision of [Michele Donini](https://www.amazon.science/author/michele-donini), and worked on time series forecasting and explainability methods for anomaly detection models. I was also a visiting graduate student in the [Department of Statistics](https://stat.uchicago.edu/) at the University of Chicago in Fall 2022, to work with [Prof. Chao Gao](https://www.stat.uchicago.edu/~chaogao/) on graph synchronisation. I recently visited the [Okinawa Institute of Science and Technology](https://www.oist.jp/) to start a collaboration with [Prof. Makoto Yamada](https://riken-yamada.github.io/profile.html) on Statistical Optimal Transport.
 
 Since 2023, I live in the beautiful city of Barcelona where I joined the [Statistics group](https://sites.google.com/view/stats-upf/) at [Universitat Pompeu Fabra](https://www.upf.edu/) and [Barcelona School of Economics](https://bse.eu/).
+
+
+</div>
