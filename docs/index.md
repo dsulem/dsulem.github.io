@@ -8,16 +8,3 @@ layout: home
 
 
 
-Hi! Welcome to my personal page and thanks for your interest :)
-
-I am currently a post-doctoral researcher at the [Barcelona School of Economics](https://bse.eu/) and [Universitat Pompeu Fabra](https://www.upf.edu/), in the [Statistics group](https://sites.google.com/view/stats-upf/), working with Prof. David Rossell and Prof. Gabor Lugosi.
-
-My research interests lie around **networks**,  **Bayesian inference**, and **high-dimensional and nonparametric statistics**. I work on different problems from applied probability to machine learning, and recently became interested in **network archaeology**, **tree algorithms**, and **graphical models**.
-
-I am also interested in the **interpretability, robustness, and fairness** of statistical and machine learning methods, and have notably looked at counterfactual analysis and Bayesian analysis.
-
-Prior to this position, I obtained a PhD in the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford, under the supervision of [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/), [Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuringu), [Xiaowen Dong](https://web.media.mit.edu/~xdong/) and [Vincent Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/).
-Before that, I received an Engineering Degree from [Ecole Polytechnique](https://www.polytechnique.edu/) in Paris. 
-
-
-**I am always pleased to receive some news, suggestions, and hear about your research interests! Please contact me at deborah [dot] sulem [at] bse [dot] eu**
