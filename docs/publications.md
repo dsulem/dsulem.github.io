@@ -16,6 +16,8 @@ Estimation of vertices arrival times in temporal random graphs. S. Brient, C. Gi
 
 Heterogenous network regression. C. Brownlees, L. Capello, D. Rossell, D. Sulem.
 
+Adaptive estimation and minimax rates of nonlinear Hawkes processes. V. Rivoirard, D. Sulem.
+
 Robust estimation in graph synchronisation. M. Cucuringu, X. Dong, C. Gao, D. Sulem.
 
 Statistical properties of Tree Wasserstein Distance. D. Sulem, M. Yamada.
