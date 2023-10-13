@@ -40,5 +40,3 @@ permalink: /teaching and talks/
 - [Network Science (NetSci) 2020 conference ](https://netsci2020.netscisociety.net/) (online, September 2020)
 - [Mathematical Methods of Modern Statistics conference](https://conferences.cirm-math.fr/2146.html) (online, June 2020)
 
-
- -->
