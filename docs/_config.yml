@@ -33,7 +33,7 @@ plugins:
   - jemoji
  
 header_pages:
-# - about.md
+  - about.md
   - publications.md
   - teaching and talks.md
   - misc.md
