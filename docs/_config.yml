@@ -26,6 +26,11 @@ url: "https://dsulem.github.io/" # the base hostname & protocol for your site, e
 twitter_username:
 github_username:  dsulem
 
+<style>
+body {
+text-align: justify}
+</style>
+
 # Build settings
 theme: minima
 plugins:
