@@ -22,6 +22,6 @@ I obtained my Ph.D. from the [Department of Statistics](http://www.stats.ox.ac.u
 <!--  My [Ph.D. thesis](https://ora.ox.ac.uk/objects/uuid:7a4b5a4d-ff38-462b-a068-f93c8237de2f) is entitled "Flexible estimation of temporal point processes and graphs" -->
 
 
-** If you wish to contact me, please use my new address deborah [dot] sulem [at] usi [dot] ch**
+**If you wish to contact me, please use my new address deborah [dot] sulem [at] usi [dot] ch**
 
 
