@@ -44,52 +44,52 @@ header_pages:
   - misc.md
 
 
-# Site Author
-author:
-  name             : "Deborah Sulem"
-  avatar           : "../images/j-isba.jpg" 
-  bio              : Assistant Professor of Data Science
-  location         : "Lugano, Switzerland"
-  email            : deborah.sulem@usi.ch
-  uri              : 
-  bitbucket        : 
-  codepen          : 
-  dribbble         : 
-  flickr           : 
-  facebook         : 
-  foursquare       : 
-  github           : dsulem
-  google_plus      : 
-  keybase          : 
-  instagram        : 
-  lastfm           : 
-  linkedin         : 
-  pinterest        : 
-  soundcloud       : 
-  stackoverflow    : 
-  steam            : 
-  tumblr           : 
-  twitter          : 
-  vine             : 
-  weibo            : 
-  xing             : 
-  youtube          : 
-  links:
+# # Site Author
+# author:
+#   name             : "Deborah Sulem"
+#   avatar           : "../images/j-isba.jpg" 
+#   bio              : Assistant Professor of Data Science
+#   location         : "Lugano, Switzerland"
+#   email            : deborah.sulem@usi.ch
+#   uri              : 
+#   bitbucket        : 
+#   codepen          : 
+#   dribbble         : 
+#   flickr           : 
+#   facebook         : 
+#   foursquare       : 
+#   github           : dsulem
+#   google_plus      : 
+#   keybase          : 
+#   instagram        : 
+#   lastfm           : 
+#   linkedin         : 
+#   pinterest        : 
+#   soundcloud       : 
+#   stackoverflow    : 
+#   steam            : 
+#   tumblr           : 
+#   twitter          : 
+#   vine             : 
+#   weibo            : 
+#   xing             : 
+#   youtube          : 
+#   links:
 
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+# # Defaults
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: # true
+#       share: true
+#       related: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
