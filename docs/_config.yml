@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Déborah Sulem
-email: deborah.sulem@bse.eu
-description: Post-doctoral researcher in Statistics and Machine Learning
+email: deborah.sulem@usi.ch
+description: Assistant Professor of Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dsulem.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
