@@ -10,7 +10,7 @@ layout: home
 </p>
 
 
-I am an Assistant Professor of Data Science in the [Faculty of Informatics](https://www.inf.usi.ch/en) at the Universit'a della Svizzera Italiana.
+I am an Assistant Professor of Data Science in the [Faculty of Informatics](https://www.inf.usi.ch/en) at the Universita della Svizzera Italiana.
 
 
 <!-- in Statistics and Machine Learning at the [Barcelona School of Economics](https://bse.eu/) and [Universitat Pompeu Fabra](https://www.upf.edu/), in the [Statistics group](https://sites.google.com/view/stats-upf/), working with [Prof. David Rossell](https://sites.google.com/site/rosselldavid) and [Prof. Gabor Lugosi](http://www.econ.upf.edu/~lugosi/) -->
