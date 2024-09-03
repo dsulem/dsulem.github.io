@@ -47,7 +47,7 @@ header_pages:
 # Site Author
 author:
   name             : "Deborah Sulem"
-  avatar           : "/images/me.jpg" 
+  avatar           : "../images/me.jpg" 
   bio              : Assistant Professor of Data Science
   location         : "Lugano, Switzerland"
   email            : deborah.sulem@usi.ch
