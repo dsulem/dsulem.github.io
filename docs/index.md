@@ -24,7 +24,7 @@ text-align: justify
 
 My research interests include **networks**,  **point processes**, **Bayesian inference**, **high-dimensional and nonparametric statistics**, **explainability and fairness in Machine Learning**.
 
-I obtained my Ph.D. from the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford, under the supervision of [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/), [Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuringu), [Xiaowen Dong](https://web.media.mit.edu/~xdong/) and [Vincent Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/). From 2023 to 2024, I was a postdoctoral researcher at the [Barcelona School of Economics](https://bse.eu/) in [Universitat Pompeu Fabra](https://www.upf.edu/).
+<p style="text-align:justify;"> I obtained my Ph.D. from the [Department of Statistics](http://www.stats.ox.ac.uk/) at the University of Oxford, under the supervision of [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/), [Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuringu), [Xiaowen Dong](https://web.media.mit.edu/~xdong/) and [Vincent Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/). From 2023 to 2024, I was a postdoctoral researcher at the [Barcelona School of Economics](https://bse.eu/) in [Universitat Pompeu Fabra](https://www.upf.edu/). </p>
 
 <!--  My [Ph.D. thesis](https://ora.ox.ac.uk/objects/uuid:7a4b5a4d-ff38-462b-a068-f93c8237de2f) is entitled "Flexible estimation of temporal point processes and graphs" -->
 
