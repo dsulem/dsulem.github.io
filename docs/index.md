@@ -10,10 +10,14 @@ layout: home
 </p>
 
 
-I am an Assistant Professor of Data Science in the [Faculty of Informatics](https://www.inf.usi.ch/en) at the Universita della Svizzera Italiana.
+## News
 
+- In July 2024, I started as an Assistant Professor (tenure-track) of Data Science in the [Faculty of Informatics](https://www.inf.usi.ch/en) at the Universita della Svizzera Italiana.
+- In September 2024, I will be giving a talk at the [BIRS workshop "Frontiers of Bayesian Inference and Data Science"](https://www.birs.ca/events/2024/5-day-workshops/24w5196).
 
 <!-- in Statistics and Machine Learning at the [Barcelona School of Economics](https://bse.eu/) and [Universitat Pompeu Fabra](https://www.upf.edu/), in the [Statistics group](https://sites.google.com/view/stats-upf/), working with [Prof. David Rossell](https://sites.google.com/site/rosselldavid) and [Prof. Gabor Lugosi](http://www.econ.upf.edu/~lugosi/) -->
+
+## About me
 
 My research interests include **networks**,  **point processes**, **Bayesian inference**, **high-dimensional and nonparametric statistics**, **explainability and fairness in Machine Learning**.
 
