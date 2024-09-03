@@ -2,7 +2,9 @@
 layout: page
 title: Short bio
 permalink: /Short bio/
-text-align: justify
+author_profile: true
+redirect_from:
+  - /resume
 
 ---
 
@@ -16,7 +18,10 @@ From 2023 to 2024, I joined the [Statistics group](https://sites.google.com/view
 
 ## CV
 
-<p> <a href="href="https://dsulem.github.io/docs/CV_webpage.pdf">CV.pdf</a> (updated September 2024) </p> 
+[get the PDF](https://github.com/dsulem/dsulem.github.io/docs/CV_webpage.pdf)
+
+
+<object data="{{ site.url }}{{ site.baseurl }}/docs/CV_webpage.pdf" width="1000" height="1000" type='application/pdf'></object>(updated September 2024)
 
 
 
