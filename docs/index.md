@@ -6,7 +6,7 @@ layout: home
 ---
 
 <p align="center">
-  <img src="/docs/images/j-isba.jpg" class="pull-left" style="text-align:center; height:170px; width:150px; border-radius:100%"/>
+  <img src="/docs/images/me.jpg" class="pull-left" style="text-align:center; height:170px; width:150px; border-radius:100%"/>
 </p>
 
 
