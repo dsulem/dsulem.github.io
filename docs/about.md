@@ -16,7 +16,7 @@ From 2023 to 2024, I joined the [Statistics group](https://sites.google.com/view
 
 ## CV
 
-<p> <a href="/CV_2024.pdf">My CV</a>.</p>
+<p> <a href="CV_webpage.pdf">CV.pdf</a> (updated September 2024) </p> 
 
 
 
