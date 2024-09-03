@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Teaching and talks
-permalink: /teaching and talks/
+title: Teaching
+permalink: /teaching/
 ---
 
-### Teaching
+
 
 - Lecturer of the Foundations of Data Science course for the [Master in Economics and Finance](https://bse.eu/study/masters-programs/economics#courses) at BSE (Fall 2023).
  - Teaching Assistant and Tutor for [Advanced Topics in Statistical Machine Learning](https://www.stats.ox.ac.uk/student-resources/msc-in-statistical-science/) (SC4/SM8, 4th year/Master) at the University of Oxford (Winter 2020, 2021 and 2022).
  - Tutor in Machine Learning at the [Advanced Studies in England](https://www.studyabroadbath.org/) program (Fall 2020).
 
-### Talks
+<!--  ### Talks
 - [International Conference on Computational and Methodological Statistics](http://www.cmstatistics.org/CMStatistics2023/programme.php)  (Berlin, December 2023)
 - [Machine Learning and Data Science Seminar](https://groups.oist.jp/node/34407/pastevents), Okinawa Institute of Science and Techonology (Okinawa, Japan, September 2023)
 - [International Conference in Economics and Statistics](http://www.cmstatistics.org/EcoSta2023/) (Tokyo, August 2023)
@@ -38,5 +38,5 @@ permalink: /teaching and talks/
 - [Conference on Approximation Methods in Bayesian Analysis](https://conferences.cirm-math.fr/2768.html) in CIRM (Luminy, France, June 2023)
 - [Network Science (NetSci) 2022 conference](https://netsci2022.net/) (online, July 2022)
 - [Network Science (NetSci) 2020 conference ](https://netsci2020.netscisociety.net/) (online, September 2020)
-- [Mathematical Methods of Modern Statistics conference](https://conferences.cirm-math.fr/2146.html) (online, June 2020)
+- [Mathematical Methods of Modern Statistics conference](https://conferences.cirm-math.fr/2146.html) (online, June 2020) -->
 
