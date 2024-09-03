@@ -24,7 +24,7 @@ description: Post-doctoral researcher in Statistics and Machine Learning
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dsulem.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username:  dsulem
+github_username: dsulem
 
 <style>
 body {
@@ -74,7 +74,7 @@ author:
   weibo            : 
   xing             : 
   youtube          : 
-  links:
+  links            : #
 
 
 # Defaults
