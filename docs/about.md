@@ -14,6 +14,10 @@ I enjoy a lot doing research partly because I like to collaborate with different
 
 From 2023 to 2024, I joined the [Statistics group](https://sites.google.com/view/stats-upf/) at [Universitat Pompeu Fabra](https://www.upf.edu/) and [Barcelona School of Economics](https://bse.eu/) as a postdoctoral researcher and became an Assistant Professor in the [Faculty of Informatics](https://www.inf.usi.ch/en) at the Universita della Svizzera Italiana in July 2024.
 
+## CV
+
+<p> <a href="/CV_2024.pdf">My CV</a>.</p>
+
 
 
 
