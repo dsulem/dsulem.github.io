@@ -2,9 +2,9 @@
 layout: page
 title: About
 permalink: /about/
----
+text-align: justify
 
-<p style='text-align: justify;'> 
+---
 
 I was born in Paris where I first completed an Engineering Degree (Applied Mathematics track) at [Ecole Polytechnique, Paris](https://www.polytechnique.edu/). I was originally trained as a Physicist in the French Classes Préparatoires at [Lycee Louis-le-Grand](https://www.louislegrand.fr/), a 2-year undergraduate course preparing for the Engineering schools' competitive admission exams. At Ecole Polytechnique, I became interested in Data Science and Machine Learning and wrote my master thesis on Hierarchical Graph Neural Networks during a research internship at the [NYU's Center for Data Science](https://cds.nyu.edu/), under the supervision of [Prof. Joan Bruna](https://cims.nyu.edu/~bruna/).
 
@@ -15,6 +15,5 @@ I enjoy a lot doing research partly because I like to collaborate with different
 From 2023 to 2024, I joined the [Statistics group](https://sites.google.com/view/stats-upf/) at [Universitat Pompeu Fabra](https://www.upf.edu/) and [Barcelona School of Economics](https://bse.eu/) as a postdoctoral researcher and became an Assistant Professor in the [Faculty of Informatics](https://www.inf.usi.ch/en) at the Universita della Svizzera Italiana in July 2024.
 
 
-</p>
 
 
