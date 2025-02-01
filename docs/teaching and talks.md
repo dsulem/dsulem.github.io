@@ -5,10 +5,10 @@ permalink: /teaching/
 ---
 
 
-
-- Lecturer of the Foundations of Data Science course for the [Master in Economics and Finance](https://bse.eu/study/masters-programs/economics#courses) at BSE (Fall 2023).
- - Teaching Assistant and Tutor for [Advanced Topics in Statistical Machine Learning](https://www.stats.ox.ac.uk/student-resources/msc-in-statistical-science/) (SC4/SM8, 4th year/Master) at the University of Oxford (Winter 2020, 2021 and 2022).
- - Tutor in Machine Learning at the [Advanced Studies in England](https://www.studyabroadbath.org/) program (Fall 2020).
+- Optimisation Methods, [Bachelor in Informatics](https://www.usi.ch/en/education/bachelor/informatics), Universita della Svizzera Italiana, Spring 2025.
+- Foundations of Data Science (lecturer), [Master in Economics and Finance](https://bse.eu/study/masters-programs/economics#courses), Barcelona School of Economics, Fall 2023.
+- [Advanced Topics in Statistical Machine Learning](https://www.stats.ox.ac.uk/student-resources/msc-in-statistical-science/) (teaching assistant and tutor), 4th year/Master, University of Oxford, Winters 2020, 2021 and 2022.
+ - Statistical Machine Learning (tutor), [Advanced Studies in England](https://www.studyabroadbath.org/), Fall 2020.
 
 <!--  ### Talks
 - [International Conference on Computational and Methodological Statistics](http://www.cmstatistics.org/CMStatistics2023/programme.php)  (Berlin, December 2023)
