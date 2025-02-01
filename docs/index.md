@@ -15,7 +15,7 @@ text-align: justify
 
 ## News
 
-- I am recruiting a Ph.D student starting in Summer or Fall 2025 on the topic of spatio-temporal point processes. More information about the call [here](https://github.com/dsulem/dsulem.github.io/tree/dsulem-patch-6/docs/phd-position.pdf).
+- I am recruiting a Ph.D student starting in Summer or Fall 2025 with [Xenia Miscouridou](https://www.misxenia.com/) on the topic of spatio-temporal point processes. More information about the call [here](https://github.com/dsulem/dsulem.github.io/tree/dsulem-patch-6/docs/phd-position.pdf).
 
 <!-- In July 2024, I started as an Assistant Professor (tenure-track) of Data Science in the [Faculty of Informatics](https://www.inf.usi.ch/en) at the Universita della Svizzera Italiana.
 - In September 2024, I will be giving a talk at the [BIRS workshop "Frontiers of Bayesian Inference and Data Science"](https://www.birs.ca/events/2024/5-day-workshops/24w5196). -->
