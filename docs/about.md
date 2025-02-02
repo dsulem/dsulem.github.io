@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Short bio
 permalink: /Short bio/
 author_profile: true
