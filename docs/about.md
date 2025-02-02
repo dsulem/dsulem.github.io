@@ -18,7 +18,6 @@ From 2023 to 2024, I joined the [Statistics group](https://sites.google.com/view
 
 ## CV
 
-<embed src="https://github.com/dsulem/dsulem.github.io/tree/dsulem-patch-6/docs/CV_webpage.pdf" type="application/pdf" />
 
 My CV <u><a href="https://github.com/dsulem/dsulem.github.io/tree/dsulem-patch-6/docs/CV_webpage.pdf">here </a></u> (updated September 2024)
 
