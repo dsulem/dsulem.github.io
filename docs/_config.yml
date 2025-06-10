@@ -35,6 +35,7 @@ plugins:
 header_pages:
   - about.md
   - publications.md
+  - research.md
   - teaching and talks.md
   - misc.md
 
