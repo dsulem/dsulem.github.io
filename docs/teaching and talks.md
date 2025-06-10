@@ -4,8 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-
-- Optimisation Methods (lecturer), [Bachelor in Informatics](https://www.usi.ch/en/education/bachelor/informatics), Universita della Svizzera Italiana, Spring 2025.
+- Optimisation Methods (lecturer), [Bachelor in Informatics](https://www.usi.ch/en/education/bachelor/informatics) and [Bachelor of Data Science](https://www.usi.ch/en/education/bachelor/data-science), Universita della Svizzera Italiana, Spring 2025.
 - Foundations of Data Science (lecturer), [Master in Economics and Finance](https://bse.eu/study/masters-programs/economics#courses), Barcelona School of Economics, Fall 2023.
 - [Advanced Topics in Statistical Machine Learning](https://www.stats.ox.ac.uk/student-resources/msc-in-statistical-science/) (teaching assistant and tutor), 4th year/Master, University of Oxford, Winters 2020, 2021 and 2022.
  - Statistical Machine Learning (tutor), [Advanced Studies in England](https://www.studyabroadbath.org/), Fall 2020.
