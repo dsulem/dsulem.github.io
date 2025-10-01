@@ -13,10 +13,10 @@ text-align: justify
 
 
 
-## News
+<--## News-->
 
-- I will be giving a talk at the [BayesComp 2025 conference](https://bayescomp2025.sg/) in the session "High-dimensional Discrete Model Search" on June 19 (10.20 am).
-- I will be giving a talk at the [Royal Statistical Society 2025 International Conference](https://rss.org.uk/training-events/conference-2025/) in the session "Change-point detection on dynamic networks" on September 3.
+<!-- I will be giving a talk at the [BayesComp 2025 conference](https://bayescomp2025.sg/) in the session "High-dimensional Discrete Model Search" on June 19 (10.20 am).
+- I will be giving a talk at the [Royal Statistical Society 2025 International Conference](https://rss.org.uk/training-events/conference-2025/) in the session "Change-point detection on dynamic networks" on September 3.-->
 
 <!-- In July 2024, I started as an Assistant Professor (tenure-track) of Data Science in the [Faculty of Informatics](https://www.inf.usi.ch/en) at the Universita della Svizzera Italiana.
 - In September 2024, I will be giving a talk at the [BIRS workshop "Frontiers of Bayesian Inference and Data Science"](https://www.birs.ca/events/2024/5-day-workshops/24w5196). -->
@@ -35,3 +35,4 @@ I obtained my Ph.D. from the [Department of Statistics](http://www.stats.ox.ac.u
 
 
 **If you wish to contact me, please use my new address: deborah [dot] sulem [at] usi [dot] ch**
+
