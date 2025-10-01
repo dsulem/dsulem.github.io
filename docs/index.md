@@ -13,7 +13,7 @@ text-align: justify
 
 
 
-<--## News-->
+<!--## News-->
 
 <!-- I will be giving a talk at the [BayesComp 2025 conference](https://bayescomp2025.sg/) in the session "High-dimensional Discrete Model Search" on June 19 (10.20 am).
 - I will be giving a talk at the [Royal Statistical Society 2025 International Conference](https://rss.org.uk/training-events/conference-2025/) in the session "Change-point detection on dynamic networks" on September 3.-->
@@ -35,4 +35,5 @@ I obtained my Ph.D. from the [Department of Statistics](http://www.stats.ox.ac.u
 
 
 **If you wish to contact me, please use my new address: deborah [dot] sulem [at] usi [dot] ch**
+
 
